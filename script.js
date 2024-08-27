@@ -6,43 +6,42 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "Quantos planetas existem no sistema solar?",
     alternativas: [
         {
-            texto:"Custos elevados",
+            texto:"9 planetas",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"8 planetas",
         afirmacao: "afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "Qual planeta é mais próximo do sol?",
     alternativas: [
         {
 
-        texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
-        afirmacao: "afirmação 3"
+        texto: "Terra: "afirmação 3"
         },
         {
-        texto:"Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
+        texto:"Mercúrio",
         afirmacao: "afirmação 4"
         }
     ]
 },
 
 {
-    enunciado: "Quais são os benefícios do uso de recursos tecnológicos para promover a acessibilidade em diferentes ambientes?",
+    enunciado: "Os planetas gasosos são compostos por gases, como hidrogênio e hélio. Qual o nome do maior planeta gasoso do Sistema Solar?",
     alternativas: [
         {
-        texto:"Promover a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
+        texto:"Marte",
         afirmacao: "afirmação 5"
         },
         {
-        texto:"Defender políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
+        texto:"Saturno",
         afirmacao: "afirmação 6"
         }
     ]
